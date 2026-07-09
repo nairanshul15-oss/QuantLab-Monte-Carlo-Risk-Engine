@@ -35,7 +35,47 @@ The application downloads live market data from Yahoo Finance, estimates covaria
 - Probability of Portfolio Loss
 
 ---
+---
 
+# 📈 Project Visualizations
+
+## Efficient Frontier
+
+Demonstrates the risk-return trade-off across thousands of randomly generated portfolios. Colors represent the Sharpe Ratio.
+
+![Efficient Frontier](Screenshot%202026-07-09%20164740.png)
+
+---
+
+## Monte Carlo Confidence Bands
+
+Median portfolio trajectory with a 90% confidence interval generated from 100,000 Monte Carlo simulations.
+
+![Confidence Bands](Screenshot%202026-07-09%20164858.png)
+
+---
+
+## Correlation Matrix
+
+Correlation structure between portfolio assets used to model realistic joint price movements.
+
+![Correlation Matrix](Screenshot%202026-07-09%20164726.png)
+
+---
+
+## Portfolio Drawdown
+
+Historical peak-to-trough drawdowns illustrating downside risk over time.
+
+![Portfolio Drawdown](Screenshot%202026-07-09%20164821.png)
+
+---
+
+## Sample Monte Carlo Paths
+
+Example simulated portfolio trajectories generated using correlated Geometric Brownian Motion.
+
+![Monte Carlo Paths](Screenshot%202026-07-09%20164804.png)
 # Technologies
 
 - Python
