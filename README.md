@@ -39,7 +39,7 @@ The application downloads live market data from Yahoo Finance, estimates covaria
 
 # 📈 Project Visualizations
 
-## Efficient Frontier
+## Correlation Matrix of Portfolio Assets
 
 Demonstrates the risk-return trade-off across thousands of randomly generated portfolios. Colors represent the Sharpe Ratio.
 
@@ -55,7 +55,7 @@ Median portfolio trajectory with a 90% confidence interval generated from 100,00
 
 ---
 
-## Correlation Matrix
+## Sample Monte Carlo Paths
 
 Correlation structure between portfolio assets used to model realistic joint price movements.
 
@@ -71,7 +71,7 @@ Historical peak-to-trough drawdowns illustrating downside risk over time.
 
 ---
 
-## Sample Monte Carlo Paths
+## Efficient Frontier
 
 Example simulated portfolio trajectories generated using correlated Geometric Brownian Motion.
 
