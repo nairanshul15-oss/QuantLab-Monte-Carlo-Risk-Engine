@@ -109,14 +109,6 @@ QuantLab-Monte-Carlo-Risk-Engine/
 
 ---
 
-# Future Enhancements
-
-- Black-Litterman Portfolio Optimization
-- Hierarchical Risk Parity (HRP)
-- Stress Testing
-- Streamlit Dashboard
-- Machine Learning Return Forecasting
-- Automated PDF Risk Reports
 
 ---
 
