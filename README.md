@@ -35,27 +35,7 @@ The application downloads live market data from Yahoo Finance, estimates covaria
 - Probability of Portfolio Loss
 
 ---
-## Sample Outputs
 
-### Correlation Matrix
-
-![Correlation Matrix](Screenshot%202026-07-09%20164726.png)
-
-### Efficient Frontier
-
-![Efficient Frontier](Screenshot%202026-07-09%20164740.png)
-
-### Portfolio Drawdown
-
-![Drawdown](Screenshot%202026-07-09%20164804.png)
-
-### Monte Carlo Confidence Bands
-
-![Confidence Bands](Screenshot%202026-07-09%20164821.png)
-
-### Monte Carlo Paths
-
-![Monte Carlo Paths](Screenshot%202026-07-09%20164858.png)
 ---
 
 # 📈 Project Visualizations
@@ -97,16 +77,6 @@ Historical peak-to-trough drawdowns illustrating downside risk over time.
 Example simulated portfolio trajectories generated using correlated Geometric Brownian Motion.
 
 ![Monte Carlo Paths](Screenshot%202026-07-09%20164804.png)
-# Technologies
-
-- Python
-- NumPy
-- Pandas
-- SciPy
-- Matplotlib
-- Plotly
-- yfinance
-
 ---
 
 # Quantitative Finance Concepts
